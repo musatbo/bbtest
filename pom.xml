@@ -5,7 +5,7 @@
 
   <groupId>org.example</groupId>
   <artifactId>bbtest</artifactId>
-  <version>1.1</version>
+  <version>1.2-SNAPSHOT</version>
 
   <name>bbtest</name>
   <!-- FIXME change it to the project's website -->
@@ -28,7 +28,7 @@
   <scm>
     <connection>scm:git:https://github.com/musatbo/bbtest.git</connection>
     <developerConnection>scm:git:https://github.com/musatbo/bbtest.git</developerConnection>
-    <tag>1.1</tag>
+    <tag>HEAD</tag>
   </scm>
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
